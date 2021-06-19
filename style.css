@@ -14,9 +14,10 @@ p {
 }
 
 .header {
+  float: top;
   border: 1px solid rgb(255,255,255);
   background-color: rgb(255,255,255);
-  margin: 40px;}
+  padding: 20px;}
 
 img.far-top-right {
   float: right;}
