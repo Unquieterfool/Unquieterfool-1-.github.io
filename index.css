@@ -1,6 +1,7 @@
 body {
-  font-family: Arial. Verdana. sns-serif;}
+  font-family: Arial, Verdana, sns-serif;
+  background-color: rgb(185,179,175);}
 h1, h2 {
-  color: #ee3e80;}
+  color: rgb(255,255,255);}
 p {
   color: #665544;}
