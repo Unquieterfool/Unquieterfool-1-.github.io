@@ -18,6 +18,9 @@ img.top-right {
   margin-left: 50px;
   padding-right: 8%}
 
+img.far-top-right {
+  float: right;}
+
 img.medium {
   width: 80px;
   height: 80px;}
