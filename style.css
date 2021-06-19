@@ -13,6 +13,11 @@ p {
   background-size: cover;
 }
 
+.header {
+  border: 1px solid rgb(255,255,255);
+  background-color: rgb(255,255,255);
+  padding: 5px;}
+
 img.far-top-right {
   float: right;}
 
