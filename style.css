@@ -15,7 +15,9 @@ p {
 
 img.top-right {
   float: right;
-  margin-left: 50px;}
+  margin-left: 50px;
+  padding-left: 8%}
+
 img.medium {
   width: 80px;
   height: 80px;}
