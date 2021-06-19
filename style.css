@@ -36,14 +36,6 @@ img.small {
   width: 284px;
   height: 504px;}
 
-.pictures {
-  align-items: center;
-  display: flex;
-  width 600px;
-  padding: 50px;
-  border: 20px solid rgb(0,0,0);
-  margin: 0px auto;}
-
 nav ul li{
   list-style: none; 
   display: inline-block;
