@@ -35,4 +35,5 @@ img.small {
   height: 504px;}
 
 img.Manning {
+  display: block;
   margin: 0px auto;}
