@@ -13,6 +13,10 @@ p {
   background-size: cover;
 }
 
+img.Boat {
+  display: block;
+  margin: 0px auto;}
+  
 .header {
   float: top;
   border: 1px solid rgb(255,255,255);
