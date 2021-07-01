@@ -40,12 +40,10 @@ li a:hover {
 }
 
 img.far-top-right {
-  float: top;
   float: right;
 }
 
 img.top-right {
-  float: top;
   float: right;
   margin-right: 10px
 }
