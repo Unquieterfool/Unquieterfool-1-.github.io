@@ -2,6 +2,15 @@ header {
   height: 136px;
 }
 
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: yellow;
+  padding: 50px;
+  font-size: 20px;
+}
+
 nav {
   clear: both;
   color: rgb(0,0,0);
