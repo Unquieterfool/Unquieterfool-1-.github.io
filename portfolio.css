@@ -19,7 +19,10 @@ nav ul {
 
 nav li {
   display: inline;
-  float: left;
+}
+
+.center {
+  text-align: center;
 }
 
 nav li a {
