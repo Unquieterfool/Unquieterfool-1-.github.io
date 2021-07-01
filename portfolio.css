@@ -38,3 +38,12 @@ li a:hover {
 .active {
   background-color: #04AA6D;
 }
+
+img.far-top-right {
+  float: top;
+  float: right;}
+
+img.top-right {
+  float: top;
+  float: right;
+  margin-right: 10px}
