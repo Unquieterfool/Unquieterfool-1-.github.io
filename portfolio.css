@@ -1,6 +1,9 @@
 header {
   height: 160px;
   float: top;
+}
+
+verticalalign {
   padding: 20px;
 }
 
