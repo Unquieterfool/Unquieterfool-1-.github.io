@@ -41,9 +41,16 @@ li a:hover {
 
 img.far-top-right {
   float: top;
-  float: right;}
+  float: right;
+}
 
 img.top-right {
   float: top;
   float: right;
-  margin-right: 10px}
+  margin-right: 10px
+}
+
+img.medium {
+  width: 80px;
+  height: 80px;
+}
