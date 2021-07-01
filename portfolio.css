@@ -15,9 +15,10 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  background-color: rgb(120,47,64);
   position: -webkit-sticky; /* Safari */
   position: sticky;
-  background-color: rgb(120,47,64);
+  top: 0;
 }
 
 nav li {
