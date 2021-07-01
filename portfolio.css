@@ -52,7 +52,25 @@ img.top-right {
   margin-bottom: 10px;
 }
 
+img.small {
+  width: 284px;
+  height: 504px;
+}
+
 img.medium {
   width: 80px;
   height: 80px;
+}
+
+.container{
+  width: 100%;
+  height: 100vh;
+  background-image: url(images/ocean.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+img.Boat {
+  display: block;
+  margin: 0px auto;
 }
