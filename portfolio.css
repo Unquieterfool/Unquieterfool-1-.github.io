@@ -63,7 +63,7 @@ img.top-right {
 img.small {
   width: 284px;
   height: 504px;
-  borde: 5px solid rgb(0,0,0);
+  border: 5px solid rgb(0,0,0);
 }
 
 img.medium {
