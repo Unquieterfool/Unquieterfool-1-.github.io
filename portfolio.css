@@ -87,7 +87,7 @@ img.Boat {
 .column {
   float: center;
   width: 20%;
-  padding: 10px;
+  padding: 5px;
 }
 
 /* Clear floats after the columns */
