@@ -83,5 +83,6 @@ img.Boat {
   margin: 0px auto;
 }
 
-
+.column{
+  colum-count: 5;
 }
