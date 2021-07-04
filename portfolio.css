@@ -94,8 +94,9 @@ img.Boat {
   vertical-align: middle;
 }
 
-#Boat{
+img.align-left{
   float: left;
+  margin-right: 20px;
   width: 759px;
 }
 
