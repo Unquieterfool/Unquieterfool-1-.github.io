@@ -6,6 +6,11 @@ html {
   box-sizing: inherit;
 }
 
+.background{
+  background-color: rgb(120,47,64);
+  
+}
+
 .column {
   float: left;
   width: 33.3%;
@@ -45,8 +50,4 @@ html {
   background-color: #555;
 }
 
-.background{
-  background-color: rgb(120,47,64);
-  
-}
 
