@@ -127,5 +127,10 @@ img.align-left{
   background-color: rgb(206, 184, 136);
 }
 
+btndiv {
+  display: block;
+  position: relative;
+  width: 100%;
+}
 
 
