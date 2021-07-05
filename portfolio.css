@@ -114,7 +114,7 @@ img.align-left{
 }
 
 .btn {
-  background-color: DodgerBlue;
+  background-color:rgb(120,47,64);
   border: none;
   color: white;
   padding: 12px 30px;
@@ -124,7 +124,7 @@ img.align-left{
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color: rgb(206, 184, 136);
 }
 
 
