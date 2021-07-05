@@ -127,9 +127,9 @@ img.align-left{
   background-color: rgb(206, 184, 136);
 }
 
-btndiv {
-  display: block;
-  position: relative;
+div.btn {
+  float: left;
+  text-align: left;
   width: 100%;
 }
 
