@@ -22,7 +22,7 @@ html {
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  background-color: rgb(120,47,64);
+  
 }
 
 .title {
@@ -45,3 +45,6 @@ html {
   background-color: #555;
 }
 
+.background{
+  background-color: rgb(120,47,64);
+}
