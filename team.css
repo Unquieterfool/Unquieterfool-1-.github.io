@@ -87,6 +87,7 @@ html {
 
 .column {
   float: left;
+  text-align: center;
   width: 20%;
   margin-bottom: 16px;
   padding: 0 8px;
