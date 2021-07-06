@@ -62,8 +62,8 @@ img.top-right {
 }
 
 img.small {
-  width: 284px;
-  height: 504px;
+  width: 284px !important;
+  height: 504px !important;
   border: 5px solid rgb(0,0,0);
 }
 
