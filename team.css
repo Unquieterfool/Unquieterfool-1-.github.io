@@ -80,6 +80,10 @@ html {
   box-sizing: inherit;
 }
 
+.row{
+  padding-top: 20px;
+}
+
 .column {
   float: left;
   width: 20%;
