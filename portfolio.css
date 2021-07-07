@@ -125,7 +125,7 @@ img.align-left{
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: rgb(96, 96, 96);
+  background-color: rgb(64, 64, 64);
 }
 
 div.btn {
