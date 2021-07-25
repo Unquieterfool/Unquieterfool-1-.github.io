@@ -33,6 +33,22 @@ nav li {
   float: left;
 }
 
+.timeline ul {
+  list-style: none;
+}
+
+.timeline ul li{
+  padding: 20px:
+  background-color: #101010;
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.timeline ul li:last-child{
+  margin-bottom: 0;
+}
+
 nav li a {
   display: block;
   color: white;
