@@ -39,8 +39,7 @@ nav li {
 
 .timeline ul li{
   padding: 20px:
-  background-color: #101010;
-  color: white;
+  background-color: black;
   border-radius: 10px;
   margin-bottom: 20px;
 }
@@ -51,7 +50,6 @@ nav li {
 
 nav li a {
   display: block;
-  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
