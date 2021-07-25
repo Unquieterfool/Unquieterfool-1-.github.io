@@ -90,8 +90,8 @@ img.medium {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #101010;
   color: white;
+  background-color: #101010;
 }
 
 .timeline{
