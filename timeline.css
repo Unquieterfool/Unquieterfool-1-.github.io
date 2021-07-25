@@ -101,17 +101,5 @@ img.medium {
   position: relative;
 }
 
-.timeline ul {
-  list-style: none;
-}
 
-.timeline ul li{
-  padding: 20px:
-  border-radius: 10px;
-  margin-bottom: 20px;
-}
-
-.timeline ul li:last-child{
-  margin-bottom: 0;
-}
   
