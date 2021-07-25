@@ -33,20 +33,6 @@ nav li {
   float: left;
 }
 
-.timeline ul {
-  list-style: none;
-}
-
-.timeline ul li{
-  padding: 20px:
-  border-radius: 10px;
-  margin-bottom: 20px;
-}
-
-.timeline ul li:last-child{
-  margin-bottom: 0;
-}
-
 nav li a {
   display: block;
   text-align: center;
@@ -113,5 +99,19 @@ img.medium {
   max-width: 800px;
   margin: 0 auto;
   position: relative;
+}
+
+.timeline ul {
+  list-style: none;
+}
+
+.timeline ul li{
+  padding: 20px:
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.timeline ul li:last-child{
+  margin-bottom: 0;
 }
   
